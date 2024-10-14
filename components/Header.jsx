@@ -23,7 +23,7 @@ const Header = () => {
           </Link>
         </div>
 
-        {/* mobile nav and Hire me button*/}
+        {/* mobile nav */}
         <div className="xl:hidden">
           <MobileNav />
         </div>
